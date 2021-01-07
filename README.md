@@ -5,9 +5,7 @@ The project is an application that delivers notices, food menus, weekly schedule
 
 ## 2. Operating Environment
 - Network must be connected because it needs to use Jsoup API for crawling data from the Hwaseong Scholarship Hall homepage.
-
 - It's an Android application that doesn't work in an iOS environment.
-
 - It ensures normal opration from Android 6.0(Marshmallow) to Anroid 10.0(Q).
 
 ## 3. UI
