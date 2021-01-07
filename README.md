@@ -33,5 +33,5 @@ The project is an application that delivers notices, food menus, weekly schedule
 
 <img src="https://user-images.githubusercontent.com/58127442/103854418-b9d5be80-50f3-11eb-9428-997b733a03a9.PNG" height="600">
 
-## 4. Download Link                                                                                                         
+## 4. Download                                                                                                        
 [Download Link is here.](https://play.google.com/store/apps/details?id=com.kimbsu.hstree)
